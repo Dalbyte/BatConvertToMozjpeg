@@ -1,0 +1,2 @@
+# BatConvertToMozjpeg
+make image small
