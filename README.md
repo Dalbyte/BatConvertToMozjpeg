@@ -4,7 +4,7 @@
 
 **01 | Download Releases to local drive**
 
-[github:mozjpeg](https://github.com/mozilla/mozjpeg)
+📄[github:mozjpeg](https://github.com/mozilla/mozjpeg)
 
 **02 | Add environment variable**
 
@@ -23,9 +23,9 @@
 drag and drop files on the bat script.
 
 - the script creates folder in file location with name ``small``
-- convert files to new folder and add suffix ```_small``
+- convert files to new folder and add suffix ``_small``
 
 **Source**
 
-most of the script comes from [github:KnightDanila/BAT_FFMPEG](https://github.com/KnightDanila/BAT_FFMPEG)
+most of the script comes from ❤️[github:KnightDanila/BAT_FFMPEG](https://github.com/KnightDanila/BAT_FFMPEG)
 
